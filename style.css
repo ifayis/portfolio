@@ -113,6 +113,7 @@
 .hello2{
     display: flex;
     justify-content: center;
+    justify-content: space-evenly;
 }
 
 
